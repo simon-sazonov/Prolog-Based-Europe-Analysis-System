@@ -1,4 +1,3 @@
-```markdown
 # 🌍 Prolog-Based Europe Analysis System
 
 This Prolog project is designed to analyze and extract insights from a database of facts related to European countries, covering geographic, cultural, political, and economic dimensions. The system supports complex queries to answer questions about shared languages, cross-border traditions, popular tourist spots, and much more.
