@@ -136,14 +136,6 @@ The project includes relationship and tree diagrams illustrating:
 
 ---
 
-## 👥 Authors
-
-- Guilherme Pereira
-- Rodrigo Azevedo Gonçalves
-- Semen Sazonov
-
----
-
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
